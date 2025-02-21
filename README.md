@@ -4,6 +4,7 @@ A simple and lightweight offline notes app that allows users to create, edit, an
 
 ---
 
+
 ## ✨ Features
 
 - 📝 Create, edit, and delete notes  
