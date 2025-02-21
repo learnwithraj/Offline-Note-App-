@@ -1,16 +1,23 @@
-# notes_app
+## 📒 Offline Notes App
 
-A new Flutter project.
+A simple and lightweight offline notes app that allows users to create, edit, and delete notes without requiring an internet connection. The app is designed for privacy-focused users who prefer storing notes locally on their devices.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📝 Create, edit, and delete notes  
+- 🔍 Search for notes instantly  
+- 🎨 Customizable themes (light & dark mode)  
+- 📌 Pin important notes for quick access  
+- 🏷️ Categorize notes using tags   
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Frontend:** Flutter (Dart)  
+- **State Management:** Provider  
+- **Local Storage:** SQLite  
+
+---
